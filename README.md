@@ -8,7 +8,7 @@
 
 **Languages:** JavaScript, TypeScript, Java, C#, HTML, CSS
 
-**Frameworks & Libraries:** React, Next.js
+**Frameworks & Libraries:** React, Next.js, Remix
 
 **Databases:** MongoDB, MySQL, PostgreSQL
 
